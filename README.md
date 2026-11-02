@@ -1,112 +1,187 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=SYSTEM%20BREACH&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=ACCESS%20GRANTED%20%7C%20WELCOME%20TO%20THE%20UNKNOWN&descSize=12&descColor=8AFF80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100C0D,45:48121D,100:8B1728&height=200&section=header&text=CRIMSON%20ROSE&fontSize=50&fontColor=E8D9C9&animation=fadeIn&fontAlignY=35&desc=A%20DEVELOPER'S%20PRIVATE%20COLLECTION&descSize=13&descColor=C6A36A"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;DEVELOPER+PROFILE+LOADED;ENTERING+THE+UNKNOWN...;WELCOME%2C+VISITOR." />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3500&pause=1200&color=C6A36A&center=true&vCenter=true&width=600&lines=Welcome+to+my+world...;Where+code+meets+creativity.;A+rose+with+thorns+and+dreams." />
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080808)
-![Profile](https://img.shields.io/badge/PROFILE-UNRESTRICTED-39FF14?style=for-the-badge&labelColor=080808)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-8B1728?style=for-the-badge&labelColor=100C0D)
+![Developer](https://img.shields.io/badge/ROLE-JUNIOR%20DEVELOPER-C6A36A?style=for-the-badge&labelColor=100C0D)
 
 </div>
 
 ---
 
-## ☣️ ABOUT THE DEVELOPER
+<div align="center">
 
+# 🥀 ABOUT THE DEVELOPER
 
-> "Every line of code opens another door. Some doors should remain closed."
+*«Even the most beautiful rose has thorns.»*
 
-- ☣️ Learning programming and developing my skills.
-- 🩸 Interested in horror games and dark aesthetics.
-- 💻 Creating websites and interactive projects.
-- 🕯️ Building digital worlds and exploring new technologies.
+</div>
+
+```python
+class Developer:
+    def __init__(self):
+        self.username = "DeletedPage"
+        self.role = "Junior Developer"
+
+        self.languages = [
+            "HTML",
+            "CSS",
+            "Python",
+            "C"
+        ]
+
+        self.tools = [
+            "Visual Studio Code",
+            "Git",
+            "GitHub"
+        ]
+
+        self.interests = [
+            "Game Development",
+            "Web Development",
+            "Horror Games",
+            "Creative Programming"
+        ]
+
+    def introduction(self):
+        return "Welcome to my little universe."
+```
+
+- 🥀 Learning programming and developing my skills.
+- 🕯️ Interested in game development and interactive storytelling.
+- 📜 Creating websites, applications and digital worlds.
+- 🩸 Inspired by gothic aesthetics, dark fantasy and mystery.
+- ✨ Always learning something new.
 
 ---
 
-## 🧬 SKILLS AND LANGUAGES
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,go,vscode&theme=dark" />
+# ✦ TECHNOLOGIES & TOOLS ✦
+
+*The instruments of creation.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github&theme=dark" />
+
+<br><br>
+
+![HTML](https://img.shields.io/badge/HTML5-8B1728?style=flat-square&logo=html5&logoColor=E8D9C9)
+![CSS](https://img.shields.io/badge/CSS3-8B1728?style=flat-square&logo=css3&logoColor=E8D9C9)
+![Python](https://img.shields.io/badge/Python-8B1728?style=flat-square&logo=python&logoColor=E8D9C9)
+![C](https://img.shields.io/badge/C-8B1728?style=flat-square&logo=c&logoColor=E8D9C9)
+![VS Code](https://img.shields.io/badge/VS%20Code-C6A36A?style=flat-square&logo=visualstudiocode&logoColor=100C0D)
 
 </div>
 
 ---
 
-## 🩸 PROJECT ARCHIVE
+<div align="center">
+
+# 🥀 THE PROJECT GARDEN
+
+*Every creation is a flower in the garden.*
+
+</div>
 
 <div align="center">
 
 <a href="https://github.com/DeletedPage?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECT_01-HORROR_GAME-39FF14?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/01-HORROR%20GAME-8B1728?style=for-the-badge&labelColor=100C0D"/>
 </a>
 
 <a href="https://github.com/DeletedPage?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECT_02-WEB_DEVELOPMENT-39FF14?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/02-WEB%20DEVELOPMENT-8B1728?style=for-the-badge&labelColor=100C0D"/>
 </a>
 
 <a href="https://github.com/DeletedPage?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECT_03-PYTHON_&_C-39FF14?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/03-PYTHON%20%26%20C-C6A36A?style=for-the-badge&labelColor=100C0D"/>
 </a>
 
 </div>
 
 | Project | Description |
 |:---|:---|
-| 🎮 Game Development | Creating games and interactive worlds |
-| 🌐 Web Development | Websites, interfaces and design |
-| 💻 Programming | Python and C experiments |
-
-[ OPEN PROJECT DATABASE →](https://github.com/DeletedPage?tab=repositories)
-
----
-
-## 📈 ACTIVITY MONITOR
+| 🩸 Game Development | Games and interactive worlds |
+| 🥀 Web Development | Websites and interfaces |
+| 🕯️ Programming | Python and C experiments |
+| 📜 Creative Projects | Digital stories and concepts |
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/39FF14/DeletedPage" alt="DeletedPage GitHub Contribution Graph"/>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DeletedPage&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
+[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-8B1728?style=for-the-badge&logo=github&logoColor=E8D9C9&labelColor=100C0D)](https://github.com/DeletedPage?tab=repositories)
 
 </div>
 
 ---
 
-## 📡 ESTABLISH CONNECTION
+<div align="center">
+
+# ✦ SYSTEM STATISTICS ✦
+
+*The chronicles of my development.*
+
+<br>
+
+![Followers](https://img.shields.io/github/followers/DeletedPage?style=for-the-badge&color=8B1728&labelColor=100C0D&logo=github&logoColor=C6A36A&label=FOLLOWERS)
+
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeletedPage&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=8B1728&labelColor=100C0D)
+
+![Profile views](https://komarev.com/ghpvc/?username=DeletedPage&style=for-the-badge&color=8B1728&label=PROFILE+VISITORS)
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=CONNECTION+CHANNELS+OPEN;AWAITING+YOUR+MESSAGE..." />
+# 📜 ACTIVITY CHRONICLES
 
-<br><br>
+*Every contribution leaves a trace.*
+
+<br>
+
+<img width="100%" src="https://ghchart.rshah.org/8B1728/DeletedPage" alt="GitHub contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🕯️ ESTABLISH CONNECTION
+
+*Every story begins with a meeting.*
+
+<br>
+
+**Have an interesting idea? Let's create something together.**
+
+<br>
 
 <a href="mailto:linakris901@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=080808"/>
+<img src="https://img.shields.io/badge/EMAIL-8B1728?style=for-the-badge&logo=gmail&logoColor=E8D9C9&labelColor=100C0D"/>
 </a>
 
 <a href="https://github.com/DeletedPage">
-<img src="https://img.shields.io/badge/GITHUB-DeletedPage-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=080808"/>
+<img src="https://img.shields.io/badge/GITHUB-C6A36A?style=for-the-badge&logo=github&logoColor=100C0D&labelColor=100C0D"/>
 </a>
 
 <br><br>
 
-**✉️ EMAIL**
+✉️ **Email:** [linakris901@gmail.com](mailto:linakris901@gmail.com)
 
-[linakris901@gmail.com](mailto:linakris901@gmail.com)
-
-**🐙 GITHUB**
-
-[github.com/DeletedPage](https://github.com/DeletedPage)
+🐙 **GitHub:** [DeletedPage](https://github.com/DeletedPage)
 
 <br>
 
-`[ OPEN FOR COLLABORATION ]`
+`[ CONNECTION CHANNELS OPEN ]`
 
 </div>
 
@@ -114,14 +189,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1728,55:48121D,100:100C0D&height=130&section=footer"/>
 
-### ☣️ SYSTEM MESSAGE
+### 🥀 FAREWELL, DEAR VISITOR
 
-**YOU HAVE REACHED THE END.**
+*«A rose may wither, but its beauty remains eternal.»*
 
-`THANK YOU FOR VISITING. STAY ALIVE.`
+**THANK YOU FOR VISITING MY GARDEN.**
 
-<sub>© DeletedPage | All systems operational.</sub>
+<sub>© DeletedPage · 2026</sub>
 
 </div>
