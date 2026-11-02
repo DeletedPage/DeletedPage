@@ -26,20 +26,13 @@
 
 ---
 
-## 🧬 PROGRAMMING LANGUAGES
+## 🧬 SKILLS AND LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,go, vscode&theme=dark" />
 
 </div>
-
-| Language | Application |
-|:---|:---|
-| HTML | Web Development |
-| CSS | Interface Design |
-| Python | Programming |
-| C | Systems Programming |
 
 ---
 
