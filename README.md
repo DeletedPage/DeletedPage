@@ -38,7 +38,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,go,vscode,git,github&theme=dark" />
 
 <br><br>
 
