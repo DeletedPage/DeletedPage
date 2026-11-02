@@ -22,35 +22,7 @@
 
 </div>
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "DeletedPage"
-        self.role = "Junior Developer"
 
-        self.languages = [
-            "HTML",
-            "CSS",
-            "Python",
-            "C"
-        ]
-
-        self.tools = [
-            "Visual Studio Code",
-            "Git",
-            "GitHub"
-        ]
-
-        self.interests = [
-            "Game Development",
-            "Web Development",
-            "Horror Games",
-            "Creative Programming"
-        ]
-
-    def introduction(self):
-        return "Welcome to my little universe."
-```
 
 - 🥀 Learning programming and developing my skills.
 - 🕯️ Interested in game development and interactive storytelling.
@@ -68,7 +40,7 @@ class Developer:
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github,go&theme=dark" />
 
 <br><br>
 
