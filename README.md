@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,go&theme=dark" />
 
 </div>
 
@@ -68,18 +68,6 @@
 | 💻 Programming | Python and C experiments |
 
 [ OPEN PROJECT DATABASE →](https://github.com/DeletedPage?tab=repositories)
-
----
-
-## 📊 SYSTEM STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeletedPage&show_icons=true&hide_border=true&bg_color=080808&title_color=39FF14&icon_color=39FF14&text_color=8AFF80&ring_color=39FF14&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeletedPage&layout=compact&hide_border=true&bg_color=080808&title_color=39FF14&text_color=8AFF80" />
-
-</div>
 
 ---
 
