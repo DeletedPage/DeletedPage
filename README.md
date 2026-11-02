@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100C0D,45:48121D,100:8B1728&height=200&section=header&text=CRIMSON%20ROSE&fontSize=50&fontColor=E8D9C9&animation=fadeIn&fontAlignY=35&desc=A%20DEVELOPER'S%20PRIVATE%20COLLECTION&descSize=13&descColor=C6A36A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100C0D,45:48121D,100:8B1728&height=200&section=header&text=RED%20ROSE&fontSize=50&fontColor=E8D9C9&animation=fadeIn&fontAlignY=35&desc=A%20DEVELOPER'S%20PRIVATE%20COLLECTION&descSize=13&descColor=C6A36A"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3500&pause=1200&color=C6A36A&center=true&vCenter=true&width=600&lines=Welcome+to+my+world...;Where+code+meets+creativity.;A+rose+with+thorns+and+dreams." />
 
@@ -16,13 +16,11 @@
 
 <div align="center">
 
-# 🥀 ABOUT THE DEVELOPER
+# 🥀 RED ROSE
 
 *«Even the most beautiful rose has thorns.»*
 
 </div>
-
-
 
 - 🥀 Learning programming and developing my skills.
 - 🕯️ Interested in game development and interactive storytelling.
@@ -40,7 +38,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,vscode,git,github&theme=dark" />
 
 <br><br>
 
