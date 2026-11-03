@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100C0D,45:48121D,100:8B1728&height=200&section=header&text=RED%20ROSE&fontSize=50&fontColor=E8D9C9&animation=fadeIn&fontAlignY=35&desc=A%20DEVELOPER'S%20PRIVATE%20COLLECTION&descSize=13&descColor=C6A36A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100C0D,45:48121D,100:8B1728&height=210&section=header&text=RED%20ROSE&fontSize=55&fontColor=E8D9C9&animation=fadeIn&fontAlignY=35&desc=A%20DEVELOPER'S%20PRIVATE%20COLLECTION&descSize=14&descColor=C6A36A"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3500&pause=1200&color=C6A36A&center=true&vCenter=true&width=600&lines=Welcome+to+my+world...;Where+code+meets+creativity.;A+rose+with+thorns+and+dreams." />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=3500&pause=1200&color=C6A36A&center=true&vCenter=true&width=600&lines=Welcome+to+my+world...;Where+code+meets+creativity.;A+rose+with+thorns+and+dreams." />
 
 <br>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-8B1728?style=for-the-badge&labelColor=100C0D)
-![Developer](https://img.shields.io/badge/ROLE-JUNIOR%20DEVELOPER-C6A36A?style=for-the-badge&labelColor=100C0D)
+![Role](https://img.shields.io/badge/ROLE-DEVELOPER-C6A36A?style=for-the-badge&labelColor=100C0D)
 
 </div>
 
@@ -16,17 +16,90 @@
 
 <div align="center">
 
-# 🥀 RED ROSE
+# 🥀 ABOUT THE DEVELOPER
 
 *«Even the most beautiful rose has thorns.»*
 
+**Hello! I'm DeletedPage.**
+
 </div>
 
-- 🥀 Learning programming and developing my skills.
-- 🕯️ Interested in game development and interactive storytelling.
-- 📜 Creating websites, applications and digital worlds.
-- 🩸 Inspired by gothic aesthetics, dark fantasy and mystery.
-- ✨ Always learning something new.
+I'm a developer interested in programming, software development, game development and web technologies.
+
+I enjoy creating digital projects, exploring new technologies and developing my technical skills.
+
+- 🥀 Interested in game development and interactive storytelling.
+- 🕯️ Exploring web and software development.
+- 📜 Working with different programming languages.
+- 💻 Learning new technologies and tools.
+- ✨ Always looking for new challenges and opportunities.
+
+---
+
+<div align="center">
+
+# ✦ SKILLS & COMPETENCIES ✦
+
+*Knowledge is the most beautiful form of power.*
+
+</div>
+
+## 🥀 ADVANCED LEVEL
+
+<sub>ADVANCED KNOWLEDGE & EXPERIENCE</sub>
+
+| Skill | Category |
+|:---|:---|
+| Handling Large Volumes of Information | Information Management |
+| Internet Research & Information Retrieval | Research |
+| Business Communication | Communication |
+| Professional Communication | Communication |
+| Business Correspondence | Communication |
+| Ubuntu | Operating Systems |
+| Microsoft Word | Office Software |
+| Microsoft Excel | Office Software |
+| Microsoft Visual Studio | Development Tools |
+
+## 🕯️ INTERMEDIATE LEVEL
+
+<sub>INTERMEDIATE KNOWLEDGE & PRACTICAL SKILLS</sub>
+
+| Skill | Category |
+|:---|:---|
+| Database Management | Databases |
+| Information Collection & Analysis | Analytics |
+| Analytical Thinking | Soft Skills |
+| Technical Support | IT |
+| Training & Development | Professional Skills |
+| Server Administration | System Administration |
+| Linux | Operating Systems |
+| Go | Programming |
+| Python | Programming |
+| HTML | Web Development |
+| CSS | Web Development |
+| GitHub | Version Control |
+| Microsoft PowerPoint | Office Software |
+
+## 🩸 BASIC LEVEL
+
+<sub>FOUNDATIONAL KNOWLEDGE</sub>
+
+| Skill | Category |
+|:---|:---|
+| Databases | Database Fundamentals |
+| Software Development | Programming |
+| SQL | Database Languages |
+| C# | Programming |
+| C | Programming |
+| JavaScript | Web Development |
+
+<div align="center">
+
+![Advanced](https://img.shields.io/badge/ADVANCED-8B1728?style=for-the-badge&labelColor=100C0D)
+![Intermediate](https://img.shields.io/badge/INTERMEDIATE-C6A36A?style=for-the-badge&labelColor=100C0D)
+![Basic](https://img.shields.io/badge/BASIC-6B5555?style=for-the-badge&labelColor=100C0D)
+
+</div>
 
 ---
 
@@ -38,15 +111,18 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,go,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,cs,js,go,sql,git,github,vscode,visualstudio,linux,ubuntu&theme=dark" />
 
 <br><br>
 
-![HTML](https://img.shields.io/badge/HTML5-8B1728?style=flat-square&logo=html5&logoColor=E8D9C9)
-![CSS](https://img.shields.io/badge/CSS3-8B1728?style=flat-square&logo=css3&logoColor=E8D9C9)
+![HTML](https://img.shields.io/badge/HTML-8B1728?style=flat-square&logo=html5&logoColor=E8D9C9)
+![CSS](https://img.shields.io/badge/CSS-8B1728?style=flat-square&logo=css3&logoColor=E8D9C9)
 ![Python](https://img.shields.io/badge/Python-8B1728?style=flat-square&logo=python&logoColor=E8D9C9)
-![C](https://img.shields.io/badge/C-8B1728?style=flat-square&logo=c&logoColor=E8D9C9)
-![VS Code](https://img.shields.io/badge/VS%20Code-C6A36A?style=flat-square&logo=visualstudiocode&logoColor=100C0D)
+![Go](https://img.shields.io/badge/Go-8B1728?style=flat-square&logo=go&logoColor=E8D9C9)
+![C](https://img.shields.io/badge/C-C6A36A?style=flat-square&logo=c&logoColor=100C0D)
+![CSharp](https://img.shields.io/badge/C%23-C6A36A?style=flat-square&logo=csharp&logoColor=100C0D)
+![JavaScript](https://img.shields.io/badge/JavaScript-C6A36A?style=flat-square&logo=javascript&logoColor=100C0D)
+![SQL](https://img.shields.io/badge/SQL-C6A36A?style=flat-square&logo=mysql&logoColor=100C0D)
 
 </div>
 
@@ -71,21 +147,21 @@
 </a>
 
 <a href="https://github.com/DeletedPage?tab=repositories">
-<img src="https://img.shields.io/badge/03-PYTHON%20%26%20C-C6A36A?style=for-the-badge&labelColor=100C0D"/>
+<img src="https://img.shields.io/badge/03-SOFTWARE%20DEVELOPMENT-C6A36A?style=for-the-badge&labelColor=100C0D"/>
 </a>
 
 </div>
 
 | Project | Description |
 |:---|:---|
-| 🩸 Game Development | Games and interactive worlds |
-| 🥀 Web Development | Websites and interfaces |
-| 🕯️ Programming | Python and C experiments |
+| 🎮 Game Development | Games and interactive worlds |
+| 🌐 Web Development | Websites and interfaces |
+| 💻 Software Development | Applications and programming |
 | 📜 Creative Projects | Digital stories and concepts |
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-8B1728?style=for-the-badge&logo=github&logoColor=E8D9C9&labelColor=100C0D)](https://github.com/DeletedPage?tab=repositories)
+[![Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-8B1728?style=for-the-badge&logo=github&logoColor=E8D9C9&labelColor=100C0D)](https://github.com/DeletedPage?tab=repositories)
 
 </div>
 
@@ -103,7 +179,7 @@
 
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeletedPage&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=8B1728&labelColor=100C0D)
 
-![Profile views](https://komarev.com/ghpvc/?username=DeletedPage&style=for-the-badge&color=8B1728&label=PROFILE+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=DeletedPage&style=for-the-badge&color=8B1728&label=PROFILE+VISITORS)
 
 </div>
 
@@ -147,7 +223,7 @@
 
 ✉️ **Email:** [linakris901@gmail.com](mailto:linakris901@gmail.com)
 
-🐙 **GitHub:** [DeletedPage](https://github.com/DeletedPage)
+🐙 **GitHub:** [github.com/DeletedPage](https://github.com/DeletedPage)
 
 <br>
 
